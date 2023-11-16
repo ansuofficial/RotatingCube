@@ -31,11 +31,11 @@ body {
     color: #fff;
     font: 12px verdana;
     text-align: center;
-    transition: transform 0.2 ease-in;
+    transition:  0.2s ease-in-out;
 }
 
 .cube div:hover {
-    background-color: red;
+    background-color: teal;
 }
 
 .front {
